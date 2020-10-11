@@ -1,0 +1,49 @@
+import React from 'react';
+import PorpTypes from 'prop-types';
+import img01 from './images/123.jpg';
+import img02 from './images/345.jpg';
+import img03 from './images/789.jpg';
+
+function Food({name,picture,message0, rating}){
+ 
+  return (
+    <div>
+          <h3>I Love {name}</h3>
+          <h4>{rating}/5.0</h4>
+          <img src={picture} alt={message0}></img>
+    </div>
+           
+    )
+  
+}
+
+
+
+
+const foodILike = [
+  {id:1,name: '코알라', image: img01,message:'코알라사진',rating: 5,},
+  {id:2,name: '집', image: img02, message:'집사진',rating: 3,},
+  {id:3,name: '펭귄', image: img03, message:'펭귄사진',rating: 4.9,},
+];
+
+
+function App() {
+  // return <div className="App" />;
+      return (
+      <div>
+       {foodILike.map(dish => (
+       <Food key={dish.id} name={dish.name} picture={dish.image} message0={dish.message} rating={dish.rating}
+       />))}
+        
+      </div>
+      );
+}
+
+Food.ProtoType = {
+  name : PorpTypes.string.isRequired,
+  picture: PorpTypes.string.isRequired,
+  message0: PorpTypes.string.isRequired,
+  rating: PorpTypes.number
+}
+
+export default App;
