@@ -2,6 +2,12 @@
 ## movie_app_2020
 
 React Js Fundamentals Course 2020
+## 10월16일
+>1. axios를 설치, google web store 에서 json viewer 설치 하면 json를 정리되어 볼수있다
+>2. state는 동적 데이터 다룰때 사용한다.
+>3. state는 클래스형 컴포넌트에서 사용 할수 있기 때문에 공부해야한다
+>4. 리액트는 클래스형 컴포넌트의 render()함수를 자동으로 실행시켜 준다.
+>5. 영화 api를 공부했다
 ## 10월07일
 >1. prop는 정적인 데이터 에서 사용가능한다
 >2. prop-types 를실행 하면 조건이 맞지 않으면 콘솔탭에서 경고 메시지가 보인다
