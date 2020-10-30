@@ -2,6 +2,10 @@
 ## movie_app_2020
 
 React Js Fundamentals Course 2020
+## 10월30일
+>1. 배열에 data를 이용해 데이터 추출할수있다
+>2. 받은 데이터를 setState로 저장한다
+>3. PropTypes 을 이용해 검사한다
 ## 10월16일
 >1. axios를 설치, google web store 에서 json viewer 설치 하면 json를 정리되어 볼수있다
 >2. state는 동적 데이터 다룰때 사용한다.
