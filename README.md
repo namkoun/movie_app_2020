@@ -2,6 +2,13 @@
 ## movie_app_2020
 
 React Js Fundamentals Course 2020
+## 11월 6일
+>1. 연결하려면 임포트 해준다
+>2. key오류등 오류 해결 , 새로운값 넣을땐 아기먼트 먼저 넣는다
+>3. isRequired 로 설정하면 props로 전달해야 한다
+>4. 리액트에서 class 대신 classname 사용
+>5. 배열안에 타입을 지정해줄때 arrayOf() 를 사용
+>6. css연결은 임포트를 import './App.css'; 이런식으로 해준다
 ## 10월30일
 >1. 배열에 data를 이용해 데이터 추출할수있다
 >2. 받은 데이터를 setState로 저장한다
