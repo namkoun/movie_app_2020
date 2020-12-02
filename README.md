@@ -2,6 +2,8 @@
 ## movie_app_2020
 
 React Js Fundamentals Course 2020
+## 12월 1일
+>1. react 예제3번, 문서에서 주요개념과 고급안내서 부분 학습
 ## 11월 27일
 >1. react에서 예제1,2번 하고 닷홈에 올림
 ## 11월 20일
