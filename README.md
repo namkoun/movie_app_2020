@@ -8,7 +8,7 @@ React Js Fundamentals Course 2020
 >1. react에서 예제1,2번 하고 닷홈에 올림
 ## 11월 20일
 >1. 상세페이지 만들기 (사진,제목,평점)
->2. 깃페이지에 올리기
+>2. 깃페이지에 올리기(https://namkoun.github.io/movie_app_2020)
 ## 11월 13일
 >1. css 연결 
 >2. 라우터 설치및 만들어 사용해 보기(클릭이동)
